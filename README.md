@@ -2,7 +2,7 @@
 today 02/12/2019
 
 ### Project Title
-bikeshare with github
+bikeshare project with github
 
 ### Description
 the project describe stastics information about bikes
