@@ -37,7 +37,7 @@ def get_filters():
         day=input('wrong input,please enter correct name of day \n')
         day=day.lower()
         
-    print('-'*30)
+    print('-'*20)
     return city, month, day
 
 def load_data(city, month, day):
