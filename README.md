@@ -5,7 +5,7 @@ today 02/12/2019
 bikeshare with github
 
 ### Description
-Describe what your project is about and what it does
+the project describe stastics information about bikes
 
 ### Files used
 Include the files used
