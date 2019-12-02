@@ -8,7 +8,7 @@ bikeshare with github
 the project describe stastics information about bikes
 
 ### Files used
-Include the files used
+just coding file
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
